@@ -1,4 +1,4 @@
-
+import './home.css'
 function Home(props:any){
 
     return (

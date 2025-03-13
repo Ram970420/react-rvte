@@ -1,11 +1,13 @@
-import Home from './pages/Home'
+//import Home from './pages/Home'
+import Home from './pages/Home1'
 function app() {
 
   return (
 
     
     <div>
-      <Home name='Ram' age = '28' gender='male' adr ='kurnool'/>
+    
+      <Home/>
       
     </div>
   )
